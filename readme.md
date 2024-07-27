@@ -18,8 +18,12 @@ Hangman game coded in Python. Feel free to test it out !
 
 ## Example Gameplay
 
-![PrintGame](images/hangmanPrint.png)
+<img src="Images/hangmanPrint.png" alt="Flowchart" width="350">
 
 # Game FlowChart
 
-![Flowchart](images/Hangman_Flowchart.png)
+<img src="Images/Hangman_Flowchart.png" alt="Flowchart" width="350">
+
+
+
+
