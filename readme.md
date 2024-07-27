@@ -1,7 +1,6 @@
-<h2>HANGMAN GAME<h2>
+# HANGMAN GAME
 
 Hangman game coded in Python. Feel free to test it out !
-<p></p>
 
 ## Features
 
@@ -19,4 +18,8 @@ Hangman game coded in Python. Feel free to test it out !
 
 ## Example Gameplay
 
-![PrintGame](hangmanPrint.png)
+![PrintGame](images/hangmanPrint.png)
+
+# Game FlowChart
+
+![Flowchart](images/Hangman_Flowchart.png)
